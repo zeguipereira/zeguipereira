@@ -10,6 +10,8 @@ I love coding, problem-solving, and building things that make life a bit easier.
 - 🌱 Current learning: Java script, python
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeguipereira&show_icons=true&theme=radical)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
